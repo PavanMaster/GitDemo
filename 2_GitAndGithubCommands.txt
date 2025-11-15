@@ -24,5 +24,12 @@ Git >> Version Control
   Mandatory Commands
   >> git init
   >> git remote add origin https://github.com/PavanMaster/GitDemo.git
-
-  git pull origin maingit 
+     pull--- request 
+  >> git pull origin main
+ >> git status
+ 
+    push--- request
+  >> git add . or file name
+   git status
+   git commit -m "Commit Message"
+   git push
