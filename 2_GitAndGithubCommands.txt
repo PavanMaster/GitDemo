@@ -1,0 +1,28 @@
+Git >> Version Control
+
+ v1 
+ v2 
+ v3
+ v4 new 
+ 
+  >> it is distributed (on cloud)
+  >> collaboration
+  >> Tracking Changes
+  >> Recovery 
+
+  Github
+  BitBucket
+  GitLabs
+  Gitpad
+
+  >> for first time need to configure github in our system
+  git config --global user.name "PavanMater"
+  git config --global user.email "pavanmaster321@gmail.com"
+
+  git config --global color.ui auto
+
+  Mandatory Commands
+  >> git init
+  >> git remote add origin https://github.com/PavanMaster/GitDemo.git
+
+  git pull origin maingit 
